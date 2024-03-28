@@ -5,7 +5,7 @@
 <img width="35%" height="250px" align="right" alt="Github" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 👀 I’m interested in .NET CORE / C# / JAVA / C++ / NETWORK SECURİTY
+- 👀 I’m interested in .NET CORE / C# / JAVA / C++ / NETWORK SECURİTY / DevOps
 - 🌱 I’m currently learning .NET CORE and JAVA 
 - 📫 How to reach me 
 
