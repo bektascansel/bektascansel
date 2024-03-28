@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 👀 I’m interested in .NET CORE / C# / JAVA / C++ / NETWORK SECURİTY / DevOps
-- 🌱 I’m currently learning .NET CORE and JAVA 
+- 🌱 I’m currently learning .NET CORE and DevOps 
 - 📫 How to reach me 
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/canselbektas/)
