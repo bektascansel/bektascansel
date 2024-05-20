@@ -1,8 +1,8 @@
-<img width="520px" height="250" alignitems="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
-## Hi there, I'm CANSEL BEKTAŞ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img width="35%" height="250px" align="right" alt="Github" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+## Hi there, I'm CANSEL BEKTAŞ 
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 👀 I’m interested in .NET CORE / C# / JAVA / C++ / NETWORK SECURİTY / DevOps
@@ -32,9 +32,6 @@
   
   
   
-  
-  
-  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bektascansel&show_icons=true&theme=radical)
   
   
 <!---
